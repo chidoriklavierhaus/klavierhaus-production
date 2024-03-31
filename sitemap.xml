@@ -20,28 +20,34 @@
   </url><url>
     <loc>https://www.do-re-mi.info/privacy/</loc>
   </url><url>
+    <loc>https://www.do-re-mi.info/tags/blog/</loc>
+    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.do-re-mi.info/categories/blog/</loc>
+    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.do-re-mi.info/blog/</loc>
+    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.do-re-mi.info/categories/</loc>
+    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.do-re-mi.info/tags/</loc>
+    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.do-re-mi.info/blog/20240331/</loc>
+    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.do-re-mi.info/tags/%E6%95%99%E5%AE%A4%E3%81%AE%E4%BB%8A/</loc>
+    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.do-re-mi.info/</loc>
+    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.do-re-mi.info/blog/20231218/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.do-re-mi.info/tags/blog/</loc>
-    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.do-re-mi.info/categories/blog/</loc>
-    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.do-re-mi.info/blog/</loc>
-    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.do-re-mi.info/categories/</loc>
-    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.do-re-mi.info/tags/seasons-greetings/</loc>
-    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.do-re-mi.info/tags/</loc>
-    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.do-re-mi.info/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.do-re-mi.info/blog/20230412mokuji/</loc>
@@ -111,9 +117,6 @@
     <lastmod>2021-12-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.do-re-mi.info/blog/20211223/</loc>
-    <lastmod>2021-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.do-re-mi.info/tags/%E6%95%99%E5%AE%A4%E3%81%AE%E4%BB%8A/</loc>
     <lastmod>2021-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.do-re-mi.info/blog/20211031/</loc>
